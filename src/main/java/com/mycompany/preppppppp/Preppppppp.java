@@ -14,5 +14,8 @@ public class Preppppppp {
         System.out.println("Hello World!");
         System.out.println("I am Raj");
         System.out.println("I am good");
+         System.out.println("Hello World!");
+        System.out.println("I am Raj");
+        System.out.println("I am good");
     }
 }
